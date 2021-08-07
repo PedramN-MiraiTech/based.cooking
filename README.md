@@ -1,3 +1,14 @@
+# About this fork
+This is an alternative front-end for based.cooking maintained by Luke Smith.
+
+# Motivations
+The minimal design of based.cooking is great; however, it also causes a lot of headaches, especially as the website grows larger and larger. For instance exposing the tags without any sort of categories can be confusing, also pressing Ctrl+F to search for a specific recipe is not user friendly nor scalable.
+
+# Front-End
+Following the same minimal principles, implementing a front-end using React.
+
+------------------------------- Original README -------------------------------
+
 # Based Cooking Website
 
 [https://based.cooking](https://based.cooking)
